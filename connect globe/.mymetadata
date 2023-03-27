@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="connect globe"
+  id="myeclipse.1351678093430"
+  context-root="/forum"
+  j2ee-spec="5.0"
+  archive="connect globe.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
